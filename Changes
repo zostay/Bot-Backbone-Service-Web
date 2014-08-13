@@ -1,0 +1,6 @@
+{{$NEXT}}
+
+    * Initial release.
+    * Web::LinkTitle fetches the title or description of links pasted into chat
+      and reports them to the chat.
+    * No tests. I know. I'm evil.
